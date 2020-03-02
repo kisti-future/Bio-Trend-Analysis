@@ -1,0 +1,50 @@
+GridaClinical 1.2_2020_KISTI
+
+
+1. Method (updated)
+- Search Clinical -> Analyze as you want by Make Matrix -> ReSearch by detailed items 
+-> Save the project you need
+- Load Project works when there is a saved project.
+- Possible to make 2X2 matrix for two of any clinical trial data items
+- Possible to make bubble chart for 2X2 matrix
+- Instead of Search PubMed, Upload User Files downloaded from ClinicalTrials.gov as format of 
+   --------------------------------------------------------------
+   [ For Advanced Users: Full Study Record XML Download  ]                                                ]
+   [ a zip file of the full study records in XML for all studies ]
+   [ in the search results table (max 10000)                      ]
+   --------------------------------------------------------------
+  is possible.
+- Merging two projects is possible.
+
+
+2. Estimate time for search and data download
+- about 100 studies : 15 seconds
+- about 2,300 studies : 90 seconds
+- about 4,000 studies : 3 minutes
+- about 9,000 studies : 7 minutes
+
+
+Email: hyyang@kisti.re.kr
+===============================================
+
+
+
+GridaClinical 1.1_201800430_KISTI
+
+1. Minor error modified
+===============================================
+
+
+
+
+GridaClinical 1.1_20190215_KISTI
+
+1. New functions for 2X2 matrix and bubble chart
+===============================================
+
+
+GridaClinical 1.2_20191118_KISTI
+
+1. Upload User Files downloaed from ClinicalTrials.gov is possible.
+2. Merging two projects is possible.
+===============================================

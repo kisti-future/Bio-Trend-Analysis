@@ -1,0 +1,58 @@
+GridaMed 1.2_2020_KISTI
+
+
+1. Method (updated)
+- Unzip GridaMed zipfile, then just do doubleclick executable "GridaMED.cmd" file.
+- Search PubMed -> Analysis -> Research Lifetime -> MeSH Analysis
+-> Visual (WordCloud or MeSH Net)
+- Load Project works when there is a saved project.
+- Possible to zoom in and out, move MeSH nodes and to save moved positions.
+- Possilble to run the new project after removing MeSH nodes.
+- Instead of Search PubMed, Upload User Files downloaded from PubMed as format of MEDLINE is possible.
+- Merging two projects is possible.
+
+
+2. Estimate time : for search and data download / for MeSH Analysis / for Pathfinder Network 
+- about 1,000 counts : 25 seconds / 30 seconds / 10 seconds
+- about 2,400 counts : 50 seconds / 50 seconds / 30 seconds
+- about 5,000 counts : 100 seconds / 20 minutes / 18 minutes
+- The time for search and data download may increase when using a wireless network.
+- Please check the document counts from "Preview" before you "Download".
+
+
+Email: hyyang@kisti.re.kr
+===========================
+
+
+
+GridaMed 1.01_20180108_KISTI
+
+1. Minor bug fixed
+===========================
+
+
+
+GridaMed 1.02_20180503_KISTI
+
+1. Minor error(related EXCEL) fixed
+===========================
+
+
+
+GridaMed 1.03_20180517_KISTI
+
+1. Minor errors  fixed
+===========================
+
+
+
+GridaMed 1.1_20190104_KISTI
+
+1. New function for MeSH node removal and New Project
+===========================
+
+
+GridaMed 1.2_20191218_KISTI
+
+1. New function for User Files
+2. Merging two projects is possible.
