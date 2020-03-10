@@ -10,7 +10,7 @@
 
 - GridaMed is an application that visualizes the latest research trends in the life sciences, medical and agro-food sectors as a MeSH keyword network graph.
 
- (MeSH : Medical Subject Headings is the NML controlled vocabulary thesaurus used for indexing articles for PubMed.)
+   (MeSH : Medical Subject Headings is the NML controlled vocabulary thesaurus used for indexing articles for PubMed.)
 
 - GridaMed not only makes it easy to visualize and identify the latest research trends through the thematic MeSH network graphs (MeSH Net), but also helps you quickly navigate through PubMed literature and clinical trial information ClinicalTrials.gov by clink-and-link MeSH nodes.
 
