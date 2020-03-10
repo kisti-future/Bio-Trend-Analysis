@@ -1,4 +1,4 @@
-# GridaBio Series for Bio-Trend-Analysis
+# Bio-Trend-Analysis with GridaBio Series
 
 ## GridaBio Series is a biomedical information search tool series developed by KISTI. Currently, two information search tools, GridaMed and GridaClinical, have been released. 
 
