@@ -1,8 +1,7 @@
 ## Biomedical  Trend Analysis Model for Technology Future Forecasting 
 # Bio-Trend-Analysis with GridaBio Series
 
-## GridaBio Series is a biomedical information analysis model/tool series developed by KISTI. Currently, two information analysis tools, GridaMed and GridaClinical, have been released, and applied to the article of "Research Trend Visualization by MeSH Terms
-from PubMed : International Journal of Environmental Research and Public Health"
+## GridaBio Series is a biomedical information analysis model/tool series developed by KISTI. Currently, two information analysis tools, GridaMed and GridaClinical, have been released, and applied to the article of "Research Trend Visualization by MeSH Terms from PubMed : International Journal of Environmental Research and Public Health"
 
 
 ### GridaMed
